@@ -1,4 +1,6 @@
+# Return Indices
 [O LeetCode que mais cai em entrevista](https://www.youtube.com/watch?v=b7Vy-uIQUrE&ab_channel=AugustoGalego)
+
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -23,7 +25,7 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
-# Brute Force
+## Brute Force
 
 - Tentar todas as combinações possíveis
 - Complexidade de O(nˆ2)
@@ -40,7 +42,7 @@ Nós podemos pegar 2 ponteiros e iterar sobre os elementos do array para consegu
 [2,7,11,15]
 ```
 
-# Sorting + 2 pointers
+## Sorting + 2 pointers
 
 - Sort do array O(log n) -> Ordenar
 - Complexidade de O(n log n)
@@ -62,7 +64,7 @@ Precisamos salvar os índices da lista original para acessar o valor corretament
 [2,7,11,15] -> achou
 ```
 
-# Hash
+## Hash
 
 - Hash maps para comparar valores já armazenados
 - Complexidade de O(n)
@@ -88,3 +90,32 @@ Qual o número somado com 15 da o target? -6
 7 Está no hashmap? Se sim retorna os indexes
 {7: 0, -6: 1}
 ```
+
+# Return Nums
+  
+Write a function that takes in a non-empty array of distinct integers and an integer representing a target sum. If any two numbers in the input array sum up to the target sum, the function should return them in an array, in any order. If no two numbers sum up to the target sum, the function should return an empty array.
+
+Note that the target sum has to be obtained by summing two different integers in the array; you can't add a single integer to itself in order to obtain the target sum.
+
+You can assume that there will be at most one pair of numbers summing up to the target sum.
+
+```python
+# Inpunt
+array = [3,4,5]
+targetSum = 8
+
+# Output
+[3,5]
+```
+
+## Brute force
+2 for loops until targetSum
+O(nˆ2) time | O(1) space
+
+## Sort + 2 pointers
+sort + pointer left and right
+O(n log(n)) | O(1) space
+
+## Hash
+Hash map e 1 for loop
+O(n) time | O(n) space

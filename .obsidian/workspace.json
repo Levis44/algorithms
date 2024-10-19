@@ -25,12 +25,14 @@
             "id": "208373563bc84f7d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Memory.excalidraw.md"
+                "file": "Exercises/easy/two_sum/Two Sum.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Memory.excalidraw"
+              "icon": "lucide-file",
+              "title": "Two Sum"
             }
           }
         ],
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Memory.excalidraw.md",
+                "file": "Exercises/easy/two_sum/Two Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Memory.excalidraw"
+              "title": "Backlinks for Two Sum"
             }
           },
           {
@@ -125,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Memory.excalidraw.md",
+                "file": "Exercises/easy/two_sum/Two Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Memory.excalidraw"
+              "title": "Outgoing links from Two Sum"
             }
           },
           {
@@ -152,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Memory.excalidraw.md"
+                "file": "Exercises/easy/two_sum/Two Sum.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Memory.excalidraw"
+              "title": "Outline of Two Sum"
             }
           },
           {
@@ -189,13 +191,14 @@
   },
   "active": "208373563bc84f7d",
   "lastOpenFiles": [
-    "Studies/data_structures/Memory.md",
+    "Excalidraw/Two Sum.excalidraw.md",
+    "Exercises/easy/two_sum/Two Sum.md",
     "Excalidraw/Memory.excalidraw.md",
+    "Studies/data_structures/Memory.md",
     "Excalidraw",
     "Studies/data_structures/Data Structures Basics.md",
     "Excalidraw/Data Structures Crash Course 2024-10-19 09.02.55.excalidraw.md",
     "Exercises/easy/zig_zag/Zig Zag.md",
-    "Exercises/easy/two_sum/Two Sum.md",
     "Exercises/easy/reverse_string/Reverse String.md",
     "Studies/big_o/Big O.md",
     "Exercises",
