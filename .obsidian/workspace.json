@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/big_o_notation/Big O.md",
+                "file": "Algorithms/Exercises/Videos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big O"
+              "title": "Videos"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/data_structures/Memory.md",
+                "file": "Algorithms/Studies/data_structures/Memory.md",
                 "mode": "source",
                 "source": false
               },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/big_o_notation/Big O.md",
+                "file": "Algorithms/Exercises/Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Big O"
+              "title": "Backlinks for Videos"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studies/big_o_notation/Big O.md",
+                "file": "Algorithms/Exercises/Videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Big O"
+              "title": "Outgoing links from Videos"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studies/big_o_notation/Big O.md"
+                "file": "Algorithms/Exercises/Videos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Big O"
+              "title": "Outline of Videos"
             }
           },
           {
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,25 +188,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "540dc36b449511be",
+  "active": "f578412d2089e012",
   "lastOpenFiles": [
-    "Studies/data_structures/Memory.md",
-    "Studies/big_o_notation/Big O.md",
-    "Exercises/easy/two_sum/Two Sum.md",
-    "Exercises/easy/kids_with_candies/Kids With the Greatest Number of Candies.md",
-    "Studies/data_structures/Data Structures Basics.md",
+    "Algorithms",
+    "Algorithms/Studies/data_structures/Data Structures Basics.md",
+    "Algorithms/Exercises/Videos.md",
+    "Algorithms/Studies/big_o_notation/Big O.md",
+    "Algorithms/Studies/data_structures/Memory.md",
+    "Algorithms/Exercises/easy/two_sum/Two Sum.md",
+    "Algorithms/Exercises/easy/kids_with_candies/Kids With the Greatest Number of Candies.md",
     "Excalidraw/Memory.excalidraw.md",
     "Excalidraw/Memory.excalidraw",
-    "Studies/big_o_notation/big_o.png",
+    "Algorithms/Studies/big_o_notation/big_o.png",
     "Excalidraw/Two Sum.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Data Structures Crash Course 2024-10-19 09.02.55.excalidraw.md",
-    "Exercises/easy/zig_zag/Zig Zag.md",
-    "Exercises/easy/reverse_string/Reverse String.md",
-    "Exercises",
+    "Algorithms/Exercises/easy/zig_zag/Zig Zag.md",
+    "Algorithms/Exercises/easy/reverse_string/Reverse String.md",
+    "Algorithms/Exercises",
     "Studies/big_o.excalidraw.md",
-    "Studies/big_o_notation",
-    "Exercises/easy/remove_element/Remove Element.md",
+    "Algorithms/Studies/big_o_notation",
+    "Algorithms/Exercises/easy/remove_element/Remove Element.md",
     "2024-10-19.md",
     "Studies/Welcome.md",
     "create a link.md"
