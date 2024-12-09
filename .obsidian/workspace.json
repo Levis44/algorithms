@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c247c71867b7461f",
+        "id": "2e0eb2be539fbf86",
         "type": "tabs",
         "children": [
           {
-            "id": "540dc36b449511be",
+            "id": "c9fc9b67cb7baf7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Algorithms/Exercises/medium/Missing Numbers.excalidraw.md"
+                "file": "Algorithms/Studies/big_o_notation/big_o.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Missing Numbers.excalidraw"
-            }
-          },
-          {
-            "id": "6ed74bae0366544c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Exercises/medium/Missing Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Missing Numbers"
+              "icon": "lucide-image",
+              "title": "big_o"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Exercises/medium/Missing Numbers.md",
+                "file": "Algorithms/Studies/big_o_notation/Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Missing Numbers"
+              "title": "Backlinks for Big O"
             }
           },
           {
@@ -125,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Exercises/medium/Missing Numbers.md",
+                "file": "Algorithms/Studies/big_o_notation/Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Missing Numbers"
+              "title": "Outgoing links from Big O"
             }
           },
           {
@@ -152,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Exercises/medium/Missing Numbers.md"
+                "file": "Algorithms/Studies/big_o_notation/Big O.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Missing Numbers"
+              "title": "Outline of Big O"
             }
           },
           {
@@ -173,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,12 +173,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ed74bae0366544c",
+  "active": "c9fc9b67cb7baf7f",
   "lastOpenFiles": [
-    "Python/Set.md",
+    "Algorithms/Exercises/easy/binary_search/binary_search.py",
+    "Algorithms/Exercises/easy/binary_search",
+    "Algorithms/Studies/big_o_notation/Big O.md",
     "Algorithms/Exercises/medium/Missing Numbers.md",
-    "Algorithms/Exercises/medium/missing_numbers.py",
     "Algorithms/Exercises/medium/Missing Numbers.excalidraw.md",
+    "Untitled",
+    "Python/Set.md",
+    "Algorithms/Exercises/medium/missing_numbers.py",
     "Algorithms/Exercises/easy/transpose_matrix/Transpose Matrix.excalidraw.md",
     "Algorithms/Exercises/easy/transpose_matrix/Transpose Matrix.md",
     "Algorithms/Exercises/Videos.md",
@@ -202,7 +192,6 @@
     "Python/List Comprehension.md",
     "Python",
     "Algorithms/Exercises/easy/two_sum/Two Sum.md",
-    "Algorithms/Studies/big_o_notation/Big O.md",
     "Algorithms/Studies/data_structures/Memory.excalidraw.md",
     "Algorithms/Exercises/easy/transpose_matrix/transpose_matrix.py",
     "Algorithms/Exercises/easy/transpose_matrix/transpose_matrix.md",
@@ -213,9 +202,7 @@
     "Algorithms/Studies/data_structures/Data Structures Basics.md",
     "Algorithms",
     "Algorithms/Exercises/easy/kids_with_candies/Kids With the Greatest Number of Candies.md",
-    "Excalidraw/Memory.excalidraw",
     "Excalidraw/Two Sum.excalidraw.md",
-    "Excalidraw",
     "Excalidraw/Data Structures Crash Course 2024-10-19 09.02.55.excalidraw.md",
     "Algorithms/Exercises/easy/zig_zag/Zig Zag.md",
     "Algorithms/Exercises/easy/reverse_string/Reverse String.md",

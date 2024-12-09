@@ -34,7 +34,7 @@ Space -> O(n)
 [[Set]]
 - Convert the Input List to a Set
 
-The conversion from a list to a set takes O(n) time, where nnn is the length of the input list.
+The conversion from a list to a set takes O(n) time, where n is the length of the input list.
 
 - Generate the Complete Range of Numbers
 - Check for Missing Numbers
