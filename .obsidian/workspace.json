@@ -11,12 +11,14 @@
             "id": "c9fc9b67cb7baf7f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algorithms/Studies/big_o_notation/big_o.png"
+                "file": "Algorithms/Exercises/arrays/easy/sorted_squared_array/Sorted Squared Array.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "big_o"
+              "icon": "lucide-file",
+              "title": "Sorted Squared Array"
             }
           }
         ]
@@ -173,10 +175,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f578412d2089e012",
+  "active": "c9fc9b67cb7baf7f",
   "lastOpenFiles": [
-    "Algorithms/Studies/big_o_notation/big_o.png",
+    "Python/List Comprehension.md",
+    "Python/Set.md",
+    "Algorithms/Exercises/arrays/easy/sorted_squared_array/Sorted Squared Array.md",
+    "Algorithms/Exercises/arrays/easy/sorted_squared_array/sort.py",
+    "Algorithms/Exercises/arrays/easy/sorted_squared_array/image.png",
+    "Algorithms/Exercises/arrays/easy/sorted_squared_array",
     "Algorithms/Exercises/strings/easy/ceaser_cipher/ceaser.md",
+    "Algorithms/Studies/big_o_notation/big_o.png",
     "Algorithms/Exercises/strings/easy/ceaser_cipher/Untitled.canvas",
     "Algorithms/Exercises/strings/easy/ceaser_cipher/ceaser.py",
     "Algorithms/Exercises/strings/easy/ceaser_cipher/image.png",
@@ -191,8 +199,6 @@
     "Algorithms/Exercises/arrays/easy/transpose_matrix/transpose_matrix.py",
     "Algorithms/Exercises/arrays/easy/transpose_matrix/Transpose Matrix.md",
     "Algorithms/Exercises/arrays/easy/transpose_matrix/Transpose Matrix.excalidraw.md",
-    "Algorithms/Exercises/arrays/easy/transpose_matrix",
-    "Algorithms/Exercises/arrays/easy/two_sum/two_sum.py",
     "Algorithms/Exercises/arrays/easy/two_sum/Two Sum.md",
     "Algorithms/Exercises/strings/is_palindrome/image.png",
     "Algorithms/Exercises/arrays/medium/Missing Numbers.md",
@@ -208,11 +214,9 @@
     "Algorithms/Studies/big_o_notation/Big O.md",
     "Algorithms/Exercises/medium/Missing Numbers.md",
     "Algorithms/Exercises/medium/Missing Numbers.excalidraw.md",
-    "Python/Set.md",
     "Algorithms/Exercises/easy/transpose_matrix/Transpose Matrix.excalidraw.md",
     "Algorithms/Exercises/easy/transpose_matrix/Transpose Matrix.md",
     "Algorithms/Exercises/Videos.md",
-    "Python/List Comprehension.md",
     "Algorithms/Exercises/easy/two_sum/Two Sum.md",
     "Algorithms/Studies/data_structures/Memory.excalidraw.md",
     "Algorithms/Exercises/easy/transpose_matrix/transpose_matrix.md",
