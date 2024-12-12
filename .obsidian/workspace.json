@@ -177,6 +177,9 @@
   },
   "active": "c9fc9b67cb7baf7f",
   "lastOpenFiles": [
+    "Algorithms/Exercises/arrays/easy/tournment_winner/image.png",
+    "Algorithms/Exercises/arrays/easy/tournment_winner/tournment.py",
+    "Algorithms/Exercises/arrays/easy/tournment_winner",
     "Python/List Comprehension.md",
     "Python/Set.md",
     "Algorithms/Exercises/arrays/easy/sorted_squared_array/Sorted Squared Array.md",
@@ -195,8 +198,6 @@
     "Algorithms/Exercises/strings/easy",
     "Algorithms/Exercises/arrays/easy/validate_subsequence/image.png",
     "Algorithms/Exercises/arrays/easy/validate_subsequence/validate_subsequence.py",
-    "Algorithms/Exercises/arrays/easy/validate_subsequence",
-    "Algorithms/Exercises/arrays/easy/transpose_matrix/transpose_matrix.py",
     "Algorithms/Exercises/arrays/easy/transpose_matrix/Transpose Matrix.md",
     "Algorithms/Exercises/arrays/easy/transpose_matrix/Transpose Matrix.excalidraw.md",
     "Algorithms/Exercises/arrays/easy/two_sum/Two Sum.md",
@@ -220,7 +221,6 @@
     "Algorithms/Exercises/easy/two_sum/Two Sum.md",
     "Algorithms/Studies/data_structures/Memory.excalidraw.md",
     "Algorithms/Exercises/easy/transpose_matrix/transpose_matrix.md",
-    "Algorithms/Studies/data_structures/Memory.md",
-    "Excalidraw/Big O 2024-10-22 18.27.25.excalidraw.md"
+    "Algorithms/Studies/data_structures/Memory.md"
   ]
 }
